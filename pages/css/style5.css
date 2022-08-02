@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    color: rgb(255, 230, 0);
+}
+p{
+    color: rgb(161, 127, 255);
+}
+body{
+    background-color: pink;
+}
+h1{
+    color: black;
+    text-align: center;
+    font-family: 'Tapestry', cursive;
+}
+div{
+    flex: 100%;
+}
